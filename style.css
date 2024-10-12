@@ -1,0 +1,83 @@
+.ajuda{
+    position: absolute;
+    left: 10%;
+    
+    
+}
+
+.conheça{
+    position: absolute;
+    left: 30%;
+
+}
+
+.FP{
+    position: absolute;
+    left: 50%;
+}
+
+.local{
+    position: absolute;
+    left: 70%;
+}
+
+.menu{
+    position: absolute;
+    left: 90%;
+}
+
+body{
+    background-image: url(imagens/girla.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    
+
+}
+
+.aju{
+    background: none;
+    color: rgb(235, 235, 247);
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.con{
+    background: none;
+    color: ghostwhite;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+cursor: pointer;
+}
+
+.faç{
+    background: none;
+    color: ghostwhite;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.loc{
+    background: none;
+    color: ghostwhite;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.men{
+    background: none;
+    color: ghostwhite;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+   cursor: pointer;
+}

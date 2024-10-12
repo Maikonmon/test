@@ -1,0 +1,38 @@
+body{
+    background-image: url(imagens/moon.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    
+
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.container {
+  display: flex;
+  gap: 10px; /* Espaço entre os botões */
+}
+
+.botao-grande {
+  padding: 20px 40px; /* Tamanho do botão */
+  font-size: 18px; /* Tamanho da fonte */
+  background-color: #0b0e11ba; /* Cor de fundo */
+  color: white; /* Cor do texto */
+  border: none; /* Sem borda */
+  border-radius: 5px; /* Bordas arredondadas */
+  cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+  transition: background-color 0.3s; /* Transição suave */
+}
+
+.botao-grande:hover {
+  background-color: #000000; /* Cor ao passar o mouse */
+}

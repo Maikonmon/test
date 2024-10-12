@@ -1,0 +1,92 @@
+
+
+body{
+    background-image: url(imagens/girla.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    
+
+}
+
+.container{
+    gap: 20px;
+}
+
+.BA{
+    background-color: rgba(250, 4, 4, 0);
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.408);
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave */
+}
+
+.BK{
+    background-color: rgba(250, 4, 4, 0);
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.408);
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave */
+
+}
+
+.BF{
+    background-color: rgba(250, 4, 4, 0);
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.408);
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave */
+}
+
+
+
+.BC{
+    background-color: rgba(250, 4, 4, 0);
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.408);
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave */
+
+}
+
+.vol{
+    
+    background-color: rgba(250, 4, 4, 0);
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.408);
+    color: white; /* Cor do texto */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de ponteiro ao passar o mouse */
+    transition: background-color 0.3s; /* Transição suave */
+
+}
+
+.BA :hover{
+    background-color: #000000; /* Cor ao passar o mouse */
+    
+}
